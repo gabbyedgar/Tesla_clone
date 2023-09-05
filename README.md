@@ -1,12 +1,10 @@
-
-
 # Original Website
 
-![Tesla Clone Screenshot](./public/images/original.png)
+![Original app](./public/images/original.png)
 
 # Tesla Clone App
 
-![Tesla Clone Screenshot](./public/images/Clone.png)
+![Tesla Clone](./public/images/Clone.png)
 
 This is a static clone of the Tesla website, created for educational purposes. The app provides a visual representation of the Tesla website's main page and features various components.
 
