@@ -1,7 +1,6 @@
 # Original Website
 
-![Original app](./public/images/original.png)
-
+![Original app](./public/images/Original.png)
 # Tesla Clone App
 
 ![Tesla Clone](./public/images/Clone.png)
